@@ -1,0 +1,13 @@
+[0706/180144.099:ERROR:process_reader_win.cc(188)] ResumeThread: The parameter is incorrect. (0x57)
+[0706/180144.100:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0706/180144.100:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0706/180144.100:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0706/180144.100:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0706/180144.100:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0706/180144.101:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0706/180144.101:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0706/180144.119:ERROR:process_reader_win.cc(123)] NtOpenThread: An invalid Client ID was specified. (0xc000000b)
+[0706/180144.120:ERROR:process_reader_win.cc(123)] NtOpenThread: An invalid Client ID was specified. (0xc000000b)
+[0706/180144.120:ERROR:process_memory_win.cc(73)] ReadMemory at 0x9b501fb580 of 16 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0706/180144.120:ERROR:exception_snapshot_win.cc(195)] EXCEPTION_POINTERS read failed
+[0706/180144.120:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
